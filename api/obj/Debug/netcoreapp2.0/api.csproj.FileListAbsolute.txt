@@ -1,0 +1,17 @@
+J:\pipeline-start\api\obj\Debug\netcoreapp2.0\api.csproj.CoreCompileInputs.cache
+J:\pipeline-start\api\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+J:\pipeline-start\api\obj\Debug\netcoreapp2.0\api.AssemblyInfoInputs.cache
+J:\pipeline-start\api\obj\Debug\netcoreapp2.0\api.AssemblyInfo.cs
+J:\pipeline-start\api\bin\Debug\netcoreapp2.0\api.deps.json
+J:\pipeline-start\api\bin\Debug\netcoreapp2.0\api.runtimeconfig.json
+J:\pipeline-start\api\bin\Debug\netcoreapp2.0\api.runtimeconfig.dev.json
+J:\pipeline-start\api\bin\Debug\netcoreapp2.0\api.dll
+J:\pipeline-start\api\bin\Debug\netcoreapp2.0\api.pdb
+J:\pipeline-start\api\obj\Debug\netcoreapp2.0\api.dll
+J:\pipeline-start\api\obj\Debug\netcoreapp2.0\api.pdb
+J:\pipeline-start\api\bin\Debug\netcoreapp2.0\appsettings.Development.json
+J:\pipeline-start\api\bin\Debug\netcoreapp2.0\appsettings.json
+J:\pipeline-start\api\bin\Debug\netcoreapp2.0\global.json
+J:\pipeline-start\api\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+J:\pipeline-start\api\obj\Debug\netcoreapp2.0\api.csprojAssemblyReference.cache
+J:\pipeline-start\api\obj\Debug\netcoreapp2.0\api.genruntimeconfig.cache

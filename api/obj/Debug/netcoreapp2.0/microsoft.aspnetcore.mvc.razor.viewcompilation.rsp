@@ -1,0 +1,5 @@
+J:\pipeline-start\api
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=api
+--content-root=J:\pipeline-start\api
+--file=
