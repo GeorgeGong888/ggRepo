@@ -8,3 +8,4 @@ branch1 6
 Branch2 local
 Branch2 local2
 test pull request template
+test2
